@@ -48,7 +48,5 @@ superuser: true
 title: Wilson HERNÁNDEZ
 ---
 
-Wilson is a doctoral student in the department of Criminology. He studied economics in Peru and obtained a master’s degree in comparative development studies at the École des Hautes Études en Sciences Sociales, Paris. 
- 
-Before Penn, he worked as a researcher at GRADE (Grupo de Análisis para el Desarrollo) in his country, where he led randomized controlled trials, impact assessments, and systematic reviews on issues related to crime victimization, gender-based violence, and justice.
+Wilson is a doctoral student in the department of Criminology. He studied economics in Peru and obtained a master’s degree in comparative development studies at the École des Hautes Études en Sciences Sociales, Paris. He is researcher at GRADE, Peru.
 {style="text-align: justify;"}
