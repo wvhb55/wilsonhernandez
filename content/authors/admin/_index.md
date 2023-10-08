@@ -48,6 +48,12 @@ superuser: true
 title: Wilson HERNÁNDEZ
 ---
 
-Wilson is a researcher interested in ...
+Wilson is a Ph.D. student in the Department of Criminology at the University of Pennsylvania. 
+
+He is interested in understanding how policing interventions and strategies impact public safety and non-crime related outcomes, as well as understanding the dynamic of gender-based violence and the most effective behavioral initiatives for bridging survivors with appropriate services.
+
+His publications cover experimental and quasi-experimental studies on gender-based violence, policing and impact of violence, as well as non-experimental studies on the dynamic of crime reporting and victimization.
+
+Before Penn, he worked as a researcher at GRADE, a leading Peruvian think tank on issues related to policing, gender-based violence, and justice. 
 
 {style="text-align: justify;"}
