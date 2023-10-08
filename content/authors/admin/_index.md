@@ -24,9 +24,6 @@ organizations:
   url: https://crim.sas.upenn.edu/
 role: Ph.D. student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - display:
     header: true
   icon: twitter
