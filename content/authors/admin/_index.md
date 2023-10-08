@@ -1,5 +1,5 @@
 ---
-bio: short bio here.
+bio:
 education:
   courses:
   - course: PhD in Criminology
@@ -22,7 +22,7 @@ last_name: Hernández
 organizations:
 - name: University of Pennsylvania
   url: https://crim.sas.upenn.edu/
-role: PhD Student
+role: Ph.D. student
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,5 +48,5 @@ superuser: true
 title: Wilson HERNÁNDEZ
 ---
 
-Wilson is a doctoral student in the department of Criminology. He studied economics in Peru and obtained a master’s degree in comparative development studies at the École des Hautes Études en Sciences Sociales, Paris. He is researcher at GRADE, Peru.
+Wilson is a doctoral student in the department of Criminology at the University of Pennsylvania. He studied economics in Peru and obtained a master’s degree in comparative development studies at the École des Hautes Études en Sciences Sociales, Paris. He is researcher at GRADE, Peru.
 {style="text-align: justify;"}
