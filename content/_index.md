@@ -9,33 +9,6 @@ sections:
   id: about
 
 
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
-
 - block: collection
   content:
     filters:
@@ -44,13 +17,26 @@ sections:
       - publication
     text: |-
       {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
+      [Filtering publications](./publication/).
       {{% /callout %}}
-    title: Recent Publications
+    title: Research
   design:
     columns: "2"
     view: citation
 
+
+- block: portfolio
+  content:
+    default_button_index: 0
+    filters:
+      folders:
+      - project
+    title: Current projects
+  design:
+    columns: "2"
+    flip_alt_rows: false
+    view: showcase
+  id: projects
 
 
 title: null

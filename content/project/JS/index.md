@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Fútbol Más
   focal_point: Smart
 links:
 - icon: twitter
@@ -10,14 +10,14 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: An RCT evaluation in Peru
 tags:
-- Deep Learning
-title: Example Project
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+- Impact evaluation
+title: Challenging gender norms through soccer
+url_code: "code"
+url_pdf: "pdf"
+url_slides: "slides"
+url_video: "video"
 ---
 
 fasdfasdfasdf
