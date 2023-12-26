@@ -17,7 +17,7 @@ sections:
       - project
     title: Featured Projects
   design:
-    columns: "2"
+    columns: "3"
     flip_alt_rows: false
     view: showcase
   id: projects

@@ -10,9 +10,10 @@ view: 146
 ## Work in progress
 
 * **The impact of adolescent curfews on crime in the US**.
-* **“Playing Safe” against gender-based violence: An impact evaluation of a soccer-based program for boys and girls.** (funded by the [Sexual Violence Research Initiative](https://svri.org/what-we-do/research-support/svri-research-grant-2023)).
+* **[“Playing Safe” against gender-based violence: An impact evaluation of a soccer-based program for boys and girls](https://wilsonhernandez.netlify.app/project/js/).** (funded by the [Sexual Violence Research Initiative](https://svri.org/what-we-do/research-support/svri-research-grant-2023)).
 * **Hot spot policing in the Global South: Crime victimization, fear of crime, and citizens’ view of police.** *With Elard Amaya, Angelo Cozzubo and Juan José Cueto* (funded by [CIES](https://cies.org.pe/wp-content/uploads/2021/01/resultados_concurso_2020_inf_asociados_11-01-2021.pdf)).
-* **At expense of what? The effect of states of emergency on crime and well-being** (funded by [CIES](https://cies.org.pe/convocatoria/xxviii-concurso-anual-de-investigacion-cies-2023/)). *With Angelo Cozzubo and Andrea Román.*
+* **At expense of what? The effect of states of emergency on crime and well-being** (funded by [CIES](https://cies.org.pe/convocatoria/xxviii-concurso-anual-de-investigacion-cies-2023/)). *With Angelo Cozzubo and Andrea Román.* **[Project "Many faces of Callao: Emergency, graffitis and crime
+"](https://wilsonhernandez.netlify.app/project/callao/).**
 * **Help-seeking response to intimate partner violence: The role of information and behavioral biases.** *With José Aguilar, Angelo Cozzubo, María Paula Gerardino and Verónica Frisancho.*
 
 
