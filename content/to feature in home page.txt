@@ -1,0 +1,15 @@
+
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - research
+ #   text: |-
+ #     {{% callout note %}}
+ #     [Filtering publications](./publication/).
+ #     {{% /callout %}}
+    title: Research
+  design:
+    columns: "2"
+  #  view: citation
