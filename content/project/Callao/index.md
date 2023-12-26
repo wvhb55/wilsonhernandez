@@ -5,8 +5,8 @@ image:
   caption: Photo by www.peru.gob.pe
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
+- icon: 
+  icon_pack: 
   name: ""
   url: 
 slides: ""

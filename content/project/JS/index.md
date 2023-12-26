@@ -4,10 +4,11 @@ external_link: ""
 image:
   caption: Photo by Fútbol Más
   focal_point: Smart
+
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
+- icon: 
+  icon_pack: 
+  name: 
   url: ""
 slides: ""
 summary: Does improving socio-emotional skills in boys and girls through soccer reduce adverse gender norms and gender-based violence?
@@ -24,4 +25,6 @@ Gender-based violence is a widespread issue across the world. One out of three w
 
 Focusing on young boys and girls is key for sustained impact. Since socio-emotional skills are particularly sensitive to environmental stimuli during these developmental stages (Moroni et al., 2019), a higher potential for impact exists.
 
-This study evaluates the impact of a soccer-based gender transformative intervention implemented by Fútbol Más among boys and girls aged 10 to 16 in Peru. The program’s first step was to enhance socioemotional skills (empathy, emotional self-efficacy, and decision-making) with a gender-transformative approach to subsequently improve well-being, gender norms concerning violence, improve bystander behavior, and reduce dating violence.
+This study evaluates the impact of a soccer-based gender transformative intervention implemented by Fútbol Más among boys and girls aged 10 to 16 in Peru. The program’s first step was to enhance socioemotional skills (empathy, emotional self-efficacy, and decision-making) with a gender-transformative approach to subsequently improve well-being, gender norms concerning violence, improve bystander behavior, and reduce dating violence. 
+
+This study is funded by the [Sexual Violence Research Initiative](https://svri.org/what-we-do/research-support/svri-research-grant-2023).
