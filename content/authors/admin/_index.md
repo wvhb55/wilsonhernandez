@@ -46,10 +46,7 @@ title: Wilson HERNÁNDEZ
 ---
 
 Wilson is a Ph.D. student in the Department of Criminology at the University of Pennsylvania. He is interested in understanding how public safety and gender-based violence are affected by state and urban interventions, including policing, services for survivors, and place-based interventions.  
-<br>
-
 Before Penn, he worked as a researcher at GRADE, a leading Peruvian think tank on issues related to policing, gender-based violence, and justice.  
-<br>
 
 (Third-party unrequested editing: Wilson also has two kids, Ana and Fabian. Wilson goes biking with Ana and plays soccer with Fabian. Wilson also eats a lot of chocolate. Especially when it is dark chocolate.)
 
