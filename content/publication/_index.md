@@ -60,10 +60,7 @@ José Mendoza.* Review of Development Economics.
 - (2022) **[El impacto de la pandemia por la COVID-19 sobre la violencia familiar: diferenciando víctimas, tipos de violencia y niveles de riesgo en el Perú](https://repositorio.grade.org.pe/bitstream/handle/20.500.12820/682/undp-rblac-PNUD_WckPapers_30.pdf)** with  *Angelo Cozzubo, José Aguilar, Denise Ledgard, and Jorge Agüero.* United Nations Program for Development, LAC Working Paper Series 30.
 
 
-## Books (editor)
-
-- (2022) **[Crimen en el Perú: una mirada multidimensional](https://repositorio.up.edu.pe/bitstream/handle/11354/3569/DI21.pdf)** *with Pablo Lavado*. Lima, Documento de investigación 21. Universidad del Pacífico.
-<br>
+## Books (as editor)
 
 - (2019) **[Violencias contra las Mujeres: La necesidad de un doble plural.](http://www.grade.org.pe/publicaciones/violencias-contra-las-mujeres-la-necesidad-de-un-doble-plural/)** Lima, GRADE.
 
@@ -80,6 +77,8 @@ José Mendoza.* Review of Development Economics.
 
 
 ## Reports
+
+- (2022) **[Crimen en el Perú: una mirada multidimensional](https://repositorio.up.edu.pe/bitstream/handle/11354/3569/DI21.pdf)** *with Pablo Lavado*. Lima, Documento de investigación 21. Universidad del Pacífico.
 
 - (2022) **[Seguridad ciudadana. Balance de investigación 2016-2021 y agenda de investigación 2021-2026](https://cies.org.pe/wp-content/uploads/2022/06/2.4_estado_y_gestion_seguridad_ciudadana_0.pdf)** *with Rosa Loureiro.* Lima, CIES.
 
