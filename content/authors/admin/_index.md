@@ -6,11 +6,11 @@ education:
     institution: University of Pennsylvania
     year: 2026 (expected)
   - course: Ms Étude Comparative du Développement
-    institution: EHESS-Paris
-    year: 2011
+    institution: EHESS - École des Hautes Études en Science Sociales, Paris
+    year: 
   - course: BSc in Economics
-    institution: Universidad de Lima
-    year: 2001
+    institution: Universidad de Lima, Peru
+    year: 
 email: "whernan@sas.upenn.edu"
 first_name: Wilson
 highlight_name: true
