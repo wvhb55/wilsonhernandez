@@ -21,6 +21,8 @@ view: 146
 
 ## Journal Articles (refereed)
 
+- (2024) **[Beyond the Surface: Intimate Partner Violence Typology and Recent Depression](https://journals.sagepub.com/doi/10.1177/10778012241248452)** *with Jhon Ortega*. Violence Against Women.
+
 - (2023) **[Violence in pandemic times: The dynamic relationship between COVID‐19 and intimate partner violence](https://onlinelibrary.wiley.com/doi/abs/10.1111/rode.13059)**
   *with Angelo Cozzubo, José Carlos Aguilar, Jorge M. Agüero, 
 José Mendoza.* Review of Development Economics.  

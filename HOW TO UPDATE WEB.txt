@@ -1,3 +1,6 @@
 1. Open R Project (wilsonhernandez)
 2. library(blogdown)
-3. 
+3. Go to folder "content" to update
+4. Modify .txt and save
+5. Git/Commit (environment console)
+6. Git/Push (environment console)
